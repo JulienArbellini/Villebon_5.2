@@ -1,5 +1,5 @@
 # Institut Villebon Charpak : L3 Module 5.2 
-##  Informatique - Analyse de données 
+## Informatique - Analyse de données 
 
 Ce dépôt regroupe les ressources pour le cours d'informatique et analyse de données de l'institut Villebon - Georges Charpak
 
